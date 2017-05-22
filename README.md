@@ -1,0 +1,2 @@
+# AwsomeTheme
+Wordpress Theme
